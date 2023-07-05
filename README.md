@@ -45,3 +45,5 @@ Also requires Unity Gaming Services package for online leaderboards. Currently e
 
 [1]: https://assetstore.unity.com/packages/tools/utilities/easy-save-the-complete-save-data-serializer-system-768
 
+© Nathan Foote | 2023
+
