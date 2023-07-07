@@ -3,7 +3,7 @@
 ![version](https://img.shields.io/badge/Version-1.0-green)
 ![engine](https://img.shields.io/badge/Engine-Unity-blue)
 
-A 3RD-person Hack-and-Slash fantasy game about a lone knight who must stand against waves of monsters to defend an isolated village from destruction! 
+A 3rd-person Hack-and-Slash fantasy game about a lone knight who must stand against waves of monsters to defend an isolated village from destruction! 
 
 ## Play Now
 
