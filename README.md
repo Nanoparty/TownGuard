@@ -3,16 +3,16 @@
 ![version](https://img.shields.io/badge/Version-1.0-green)
 ![engine](https://img.shields.io/badge/Engine-Unity-blue)
 
-A 3rd-person Hack-and-Slash fantasy game about a lone knight who must stand against waves of monsters to defend an isolated village from destruction! 
+A 3rd-person Hack-and-Slash fantasy game about a lone knight who must stand against waves of monsters to defend an isolated village from destruction! Paid assets have been removed from this project.
 
 ## Play Now
 
 Game is available to download and play for free on Windows, Mac, and Linux at https://dispixel.itch.io/town-guard
 
 <p align="center">
-  <img src="Screenshots/1.png" />
-  <img src="Screenshots/2.png" />
-  <img src="Screenshots/3.png" />
+  <img src="Screenshots/Screenshot 2022-10-16 214039.png" />
+  <img src="Screenshots/Screenshot 2022-10-16 214402.png" />
+  <img src="Screenshots/Screenshot 2022-10-16 215819.png" />
 </p>
 
 ## Features
